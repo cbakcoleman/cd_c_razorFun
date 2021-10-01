@@ -9,7 +9,7 @@
 <body>
     <h1>Here are some delicious foods!</h1>
     @{
-        var StringList = new List<string>
+        var food = new List<string>
             {
                 "Delicata Squash",
                 "Brussels Sprouts",
@@ -17,7 +17,7 @@
                 "Pickled Jalapenos"
             };
 
-            foreach(var word in StringList)
+            foreach(var word in food)
             {
                 <p>@word</p>
             }
