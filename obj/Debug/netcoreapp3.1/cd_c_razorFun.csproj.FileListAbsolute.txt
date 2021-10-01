@@ -18,7 +18,6 @@
 /Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/obj/Debug/netcoreapp3.1/cd_c_razorFun.TagHelpers.input.cache
 /Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/obj/Debug/netcoreapp3.1/cd_c_razorFun.TagHelpers.output.cache
 /Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/obj/Debug/netcoreapp3.1/cd_c_razorFun.RazorCoreGenerate.cache
-/Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/obj/Debug/netcoreapp3.1/Razor/Views/Index.cshtml.g.cs
 /Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/obj/Debug/netcoreapp3.1/cd_c_razorFun.RazorTargetAssemblyInfo.cache
 /Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/obj/Debug/netcoreapp3.1/cd_c_razorFun.RazorTargetAssemblyInfo.cs
 /Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/obj/Debug/netcoreapp3.1/cd_c_razorFun.Views.pdb
@@ -28,3 +27,4 @@
 /Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/obj/Debug/netcoreapp3.1/cd_c_razorFun.pdb
 /Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/obj/Debug/netcoreapp3.1/cd_c_razorFun.genruntimeconfig.cache
 /Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/obj/Debug/netcoreapp3.1/cd_c_razorFun.csproj.CopyComplete
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/obj/Debug/netcoreapp3.1/Razor/Views/Foods/Index.cshtml.g.cs

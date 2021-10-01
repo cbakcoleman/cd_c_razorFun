@@ -14402,8 +14402,8 @@
   "RootNamespace": "cd_c_razorFun",
   "Documents": [
     {
-      "FilePath": "/Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/Views/Index.cshtml",
-      "TargetPath": "Views\\Index.cshtml",
+      "FilePath": "/Users/cbakcoleman/Desktop/CD_C#/cd_c_razorFun/Views/Foods/Index.cshtml",
+      "TargetPath": "Views\\Foods\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

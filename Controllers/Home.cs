@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace cd_c_razorFun.Controllers
 {
-    public class IndexController : Controller
+    public class FoodsController : Controller
     {
         
 
